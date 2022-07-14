@@ -1,0 +1,11 @@
+Experiment dir : /4T/wenhu/cvpr22/wenhu/imagenet/saliency_linear/logs/train-20210827-172533
+08/27 05:25:39 PM data already
+load pretrain resnet50
+model param size = %fMB 27.399363
+lr: 0.1
+08/27 05:26:08 PM Epoch: [0][0/5005]	Time 25.680 (25.680)	Loss 7.0067 	Prec@1 0.000 (0.000)
+08/27 05:44:23 PM Epoch: [0][50/5005]	Time 4.803 (21.984)	Loss 2.8216 	Prec@1 49.219 (22.679)
+08/27 05:48:43 PM Epoch: [0][100/5005]	Time 5.048 (13.678)	Loss 1.9088 	Prec@1 56.641 (37.767)
+08/27 05:53:13 PM Epoch: [0][150/5005]	Time 5.692 (10.932)	Loss 1.6946 	Prec@1 62.891 (45.638)
+08/27 05:57:41 PM Epoch: [0][200/5005]	Time 6.042 (9.547)	Loss 1.5413 	Prec@1 60.938 (50.264)
+08/27 06:02:19 PM Epoch: [0][250/5005]	Time 4.616 (8.753)	Loss 1.4699 	Prec@1 60.156 (53.181)
